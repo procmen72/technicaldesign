@@ -1,4 +1,4 @@
-# caso practico "Automatización de gasolinera"
+# Caso practico "Automatización de gasolinera"
 Una gasolinera va a operar de forma automatizada. Los clientes introducen la tarjeta de prepago en un lector conectado a la bomba de suministro. 
 
 El dispositivo lector se comunica con los servicios del proveedor de la tarjeta de prepago para validar el estado de la tarjeta. Si la tarjeta tiene saldo (Expresado en litros) y está tiene vigencia, desbloquea la manguera de la bomba para permitir la carga de combustible. 
