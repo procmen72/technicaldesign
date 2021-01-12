@@ -8,13 +8,12 @@ Al ingresar el paciente la dirección de correo electrónico tendrá la opción 
 
 El sistema deberá enviar un mensaje de recordatorio de cita un día antes de la misma, si el paciente selecciono la opción de recibir notificaciones, también se enviará un mensaje de recordatorio un día antes de su cita por WhatsApp.
 
-#### Diagramas a desarrollar
-
-- Elabore un diagrama de arquitectura conceptual para la solución del caso
-- Elabore un diagrama de clases de los objetos involucrados en este caso, utilice su experiencia propia para la definición tanto de los atributos como para los métodos de cada clase.
-- Elabore el diagrama de secuencia para la operación agendar cita.
-- Elabore el diagrama de secuencia para la operación enviar recordatorio de cita.
-- Elabore un diagrama de despliegue para los componentes del portal de citas.
-
-
-**Pueden hacer suposiciones acerca de los sistemas involucrados al momento de realizar el diseño.**
+> #### Diagramas a desarrollar
+>
+> - Elabore un diagrama de arquitectura conceptual para la solución del caso
+> - Elabore un diagrama de clases de los objetos involucrados en este caso, utilice su experiencia propia para la definición tanto de los atributos como para los métodos de cada clase.
+> - Elabore el diagrama de secuencia para la operación agendar cita.
+> - Elabore el diagrama de secuencia para la operación enviar recordatorio de cita.
+> - Elabore un diagrama de despliegue para los componentes del portal de citas.
+>
+> **Pueden hacer suposiciones acerca de los sistemas involucrados al momento de realizar el diseño.**
